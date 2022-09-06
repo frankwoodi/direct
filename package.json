@@ -1,0 +1,10 @@
+{
+    "name": "direct",
+    "description": "A inter messaging app",
+    "main": "index.js",
+    "devDependencies": {
+        "typescript": "^6.0.0",
+        "@types/node": "^6.6.0",
+        "express": "^1.0.0"
+    }
+}
